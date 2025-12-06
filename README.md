@@ -523,4 +523,3 @@ The system is pre-populated with sample accounts for testing. You can log in wit
 ---
 
 **Last Updated**: December 2025
-**Assignment**: COS30020 Assignment 2 - My Friend System
