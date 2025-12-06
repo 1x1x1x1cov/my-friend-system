@@ -49,15 +49,7 @@ The My Friend System provides the following core functionality:
 
 ### Database Configuration
 
-The application uses the following database connection settings (configured in `settings.php`):
-
-```php
-Host: XXX
-Database: XXX
-User: XXX
-```
-
-**Note**: You will need to update `settings.php` with your own database credentials.
+You will need to update `settings.php` with your own database credentials.
 
 ### Database Tables
 
@@ -135,7 +127,6 @@ PRIVATE-PHP-FRIENDS_SYSTEM/
 ├── navigation.php      # Reusable navigation bar component
 ├── settings.php        # Database configuration and connection functions
 ├── style.css           # Stylesheet for entire application
-└── README.md           # This file
 ```
 
 ### File Dependencies
@@ -149,7 +140,7 @@ PRIVATE-PHP-FRIENDS_SYSTEM/
 ### Step 1: Download/Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/1x1x1x1cov/my-friend-system
 cd PRIVATE-PHP-FRIENDS_SYSTEM
 ```
 
@@ -167,10 +158,10 @@ define('DB_NAME', 'your-database-name');
 
 ### Step 3: Deploy to Server
 
-#### Option A: Mercury Server (Swinburne)
+#### Option A: Mercury Server 
 
 1. Connect to Mercury server via SFTP/SSH
-2. Upload all files to your public web directory (e.g., `public_html/assign2/`)
+2. Upload all files to your public web directory
 3. Ensure file permissions are correct:
    ```bash
    chmod 644 *.php *.css
