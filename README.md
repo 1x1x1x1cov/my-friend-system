@@ -26,8 +26,8 @@ The My Friend System provides the following core functionality:
   - Add new friends from registered users
   - Remove existing friends (unfriend)
   - Automatic bidirectional friendship relationships
-- **Pagination**: Browse available users with 10 users per page (Extra Challenge - Task 8)
-- **Mutual Friends**: See how many mutual friends you share with potential connections (Extra Challenge - Task 9)
+- **Pagination**: Browse available users with 10 users per page 
+- **Mutual Friends**: See how many mutual friends you share with potential connections
 - **Dynamic Navigation**: Context-aware navigation bar that changes based on login status
 - **Auto-Population**: Database automatically creates and populates sample data on first load
 
