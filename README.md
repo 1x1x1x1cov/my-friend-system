@@ -52,9 +52,9 @@ The My Friend System provides the following core functionality:
 The application uses the following database connection settings (configured in `settings.php`):
 
 ```php
-Host: feenix-mariadb.swin.edu.au
-Database: s104680710_db
-User: s104680710
+Host: XXX
+Database: XXX
+User: XXX
 ```
 
 **Note**: You will need to update `settings.php` with your own database credentials.
