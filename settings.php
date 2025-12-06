@@ -5,10 +5,10 @@
  */
 
 // Database configuration
-define('DB_HOST', 'feenix-mariadb.swin.edu.au');
-define('DB_USER', 's104680710');
-define('DB_PASS', 'Ganhata05!');
-define('DB_NAME', 's104680710_db');
+define('DB_HOST', 'XXX');
+define('DB_USER', 'XXX');
+define('DB_PASS', 'XXX');
+define('DB_NAME', 'XXX');
 
 /**
  * Get database connection
